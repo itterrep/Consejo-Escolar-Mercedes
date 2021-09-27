@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2F8DD1EF-538E-4F05-9FBC-15EB3C004A9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ConsejoEscolar.My.MyApplication</StartupObject>
+    <RootNamespace>ConsejoEscolar</RootNamespace>
+    <AssemblyName>ConsejoEscolar</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\NOTEFEDE\Users\Public\Downloads\consejoescolar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ConsejoEscolar.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ConsejoEscolar.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AECD266794E721AB4DBFF0DB925996D5DB52D0B3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ConsejoEscolar_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Gif SysLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ClassArticulo.vb" />
+    <Compile Include="Clases\ClassAuxiliar.vb" />
+    <Compile Include="Clases\ClassCaja.vb" />
+    <Compile Include="Clases\ClassCliente.vb" />
+    <Compile Include="Clases\ClassCompra.vb" />
+    <Compile Include="Clases\ClassDirector.vb" />
+    <Compile Include="Clases\ClassDocProveedor.vb" />
+    <Compile Include="Clases\ClassEmpleado.vb" />
+    <Compile Include="Clases\ClassEscuela.vb" />
+    <Compile Include="Clases\ClassFactura.vb" />
+    <Compile Include="Clases\ClassMisDatos.vb" />
+    <Compile Include="Clases\ClassPedidoProveedores.vb" />
+    <Compile Include="Clases\ClassPedidoProveedoresDetalle.vb" />
+    <Compile Include="Clases\ClassPresupuesto.vb" />
+    <Compile Include="Clases\ClassProveedor.vb" />
+    <Compile Include="Clases\ClassSecretario.vb" />
+    <Compile Include="Clases\ClassStock.vb" />
+    <Compile Include="Clases\ClassUsuario.vb" />
+    <Compile Include="Clases\ClassVendedor.vb" />
+    <Compile Include="Clases\ClassVenta.vb" />
+    <Compile Include="Clases\GestionMySQL.vb" />
+    <Compile Include="Datasets\consejoescolarDataSetFacturaXfecha.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>consejoescolarDataSetFacturaXfecha.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\consejoescolarDataSetProveedores.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>consejoescolarDataSetProveedores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\consejoescolarDataSetEscuelasTipo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>consejoescolarDataSetEscuelasTipo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datasets\consejoescolarDataSetFacturas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>consejoescolarDataSetFacturas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmDocProv.Designer.vb">
+      <DependentUpon>FrmDocProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmDocProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaArticulo.Designer.vb">
+      <DependentUpon>FrmBusquedaArticulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaArticulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaFacturas.Designer.vb">
+      <DependentUpon>FrmBusquedaFacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmCargaCargos.Designer.vb">
+      <DependentUpon>FrmCargaCargos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmCargaCargos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmAuxiliar.Designer.vb">
+      <DependentUpon>FrmAuxiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmAuxiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmDirector.Designer.vb">
+      <DependentUpon>FrmDirector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmDirector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmEscuelas.Designer.vb">
+      <DependentUpon>FrmEscuelas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmEscuelas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmMisDatos.Designer.vb">
+      <DependentUpon>FrmMisDatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmMisDatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmProveedores.Designer.vb">
+      <DependentUpon>FrmProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmRubro.Designer.vb">
+      <DependentUpon>FrmRubro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmRubro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmSecterario.Designer.vb">
+      <DependentUpon>FrmSecterario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmSecterario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmTComedor.Designer.vb">
+      <DependentUpon>FrmTComedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmTComedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmTurno.Designer.vb">
+      <DependentUpon>FrmTurno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ABM\FrmTurno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\About\FrmAbout.Designer.vb">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\About\FrmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmBackUp.Designer.vb">
+      <DependentUpon>FrmBackUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmBackUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmHacerBackup.Designer.vb">
+      <DependentUpon>FrmHacerBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmHacerBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmRestaurarBackUp.Designer.vb">
+      <DependentUpon>FrmRestaurarBackUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BackUp\FrmRestaurarBackUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaEscuelas.Designer.vb">
+      <DependentUpon>FrmBusquedaEscuelas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Busquedas\FrmBusquedaEscuelas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmCargaFacturas.Designer.vb">
+      <DependentUpon>FrmCargaFacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmCargaFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmAnulaFactura.Designer.vb">
+      <DependentUpon>FrmAnulaFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cargas\FrmAnulaFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmBusquedaFacturasDesdeHasta.Designer.vb">
+      <DependentUpon>FrmBusquedaFacturasDesdeHasta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmBusquedaFacturasDesdeHasta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCue.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXCue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueProveedor.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXCueProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueRubro.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXCueRubro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueRubro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXfecha.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXfecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXfecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXProveedor.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXRubro.Designer.vb">
+      <DependentUpon>FrmInformeFacturasXRubro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXRubro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Login\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Login\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Usuarios\FrmUsuarios.Designer.vb">
+      <DependentUpon>FrmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Usuarios\FrmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Usuarios\LoginFormUsuarios.Designer.vb">
+      <DependentUpon>LoginFormUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Usuarios\LoginFormUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\FrmInformeEscuelasTipo.Designer.vb">
+      <DependentUpon>FrmInformeEscuelasTipo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\FrmInformeEscuelasTipo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Informes\FrmInformeProveedores.Designer.vb">
+      <DependentUpon>FrmInformeProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Informes\FrmInformeProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MdiMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MdiMenu.Designer.vb">
+      <DependentUpon>MdiMenu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\Modulo Consultas.vb" />
+    <Compile Include="Modulos\Modulo Funciones.vb" />
+    <Compile Include="Modulos\Modulo Variables Globales.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\ABM\FrmDocProv.resx">
+      <DependentUpon>FrmDocProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Busquedas\FrmBusquedaArticulo.resx">
+      <DependentUpon>FrmBusquedaArticulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Busquedas\FrmBusquedaFacturas.resx">
+      <DependentUpon>FrmBusquedaFacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cargas\FrmCargaCargos.resx">
+      <DependentUpon>FrmCargaCargos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmAuxiliar.resx">
+      <DependentUpon>FrmAuxiliar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmDirector.resx">
+      <DependentUpon>FrmDirector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmEscuelas.resx">
+      <DependentUpon>FrmEscuelas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmMisDatos.resx">
+      <DependentUpon>FrmMisDatos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmProveedores.resx">
+      <DependentUpon>FrmProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmRubro.resx">
+      <DependentUpon>FrmRubro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmSecterario.resx">
+      <DependentUpon>FrmSecterario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmTComedor.resx">
+      <DependentUpon>FrmTComedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ABM\FrmTurno.resx">
+      <DependentUpon>FrmTurno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\About\FrmAbout.resx">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\BackUp\FrmBackUp.resx">
+      <DependentUpon>FrmBackUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\BackUp\FrmHacerBackup.resx">
+      <DependentUpon>FrmHacerBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\BackUp\FrmRestaurarBackUp.resx">
+      <DependentUpon>FrmRestaurarBackUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Busquedas\FrmBusquedaEscuelas.resx">
+      <DependentUpon>FrmBusquedaEscuelas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cargas\FrmCargaFacturas.resx">
+      <DependentUpon>FrmCargaFacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cargas\FrmAnulaFactura.resx">
+      <DependentUpon>FrmAnulaFactura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmBusquedaFacturasDesdeHasta.resx">
+      <DependentUpon>FrmBusquedaFacturasDesdeHasta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCue.resx">
+      <DependentUpon>FrmInformeFacturasXCue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueProveedor.resx">
+      <DependentUpon>FrmInformeFacturasXCueProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXCueRubro.resx">
+      <DependentUpon>FrmInformeFacturasXCueRubro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXfecha.resx">
+      <DependentUpon>FrmInformeFacturasXfecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXProveedor.resx">
+      <DependentUpon>FrmInformeFacturasXProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\Facturas por fecha y Cuenta\FrmInformeFacturasXRubro.resx">
+      <DependentUpon>FrmInformeFacturasXRubro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Login\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Usuarios\FrmUsuarios.resx">
+      <DependentUpon>FrmUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Usuarios\LoginFormUsuarios.resx">
+      <DependentUpon>LoginFormUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\FrmInformeEscuelasTipo.resx">
+      <DependentUpon>FrmInformeEscuelasTipo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Informes\FrmInformeProveedores.resx">
+      <DependentUpon>FrmInformeProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MdiMenu.resx">
+      <DependentUpon>MdiMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Datasets\consejoescolarDataSetFacturaXfecha.xsc">
+      <DependentUpon>consejoescolarDataSetFacturaXfecha.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetFacturaXfecha.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>consejoescolarDataSetFacturaXfecha.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetFacturaXfecha.xss">
+      <DependentUpon>consejoescolarDataSetFacturaXfecha.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetProveedores.xsc">
+      <DependentUpon>consejoescolarDataSetProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetProveedores.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>consejoescolarDataSetProveedores.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetProveedores.xss">
+      <DependentUpon>consejoescolarDataSetProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetEscuelasTipo.xsc">
+      <DependentUpon>consejoescolarDataSetEscuelasTipo.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetEscuelasTipo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>consejoescolarDataSetEscuelasTipo.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetEscuelasTipo.xss">
+      <DependentUpon>consejoescolarDataSetEscuelasTipo.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetFacturas.xsc">
+      <DependentUpon>consejoescolarDataSetFacturas.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetFacturas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>consejoescolarDataSetFacturas.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Datasets\consejoescolarDataSetFacturas.xss">
+      <DependentUpon>consejoescolarDataSetFacturas.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Formularios\BackUp\data-backupS.png" />
+    <Content Include="Resources\articulos.jpg" />
+    <Content Include="Resources\BI_add2_36.png" />
+    <Content Include="Resources\BI_addCart_48.png" />
+    <Content Include="Resources\BI_addP_48.png" />
+    <Content Include="Resources\BI_add_72.png" />
+    <Content Include="Resources\BI_Archivo_36.png" />
+    <Content Include="Resources\BI_cancel_36.png" />
+    <Content Include="Resources\BI_cancel_48.png" />
+    <Content Include="Resources\BI_cancel_72.png" />
+    <Content Include="Resources\BI_delete_36.png" />
+    <Content Include="Resources\BI_delete_72.png" />
+    <Content Include="Resources\BI_disk_36.png" />
+    <Content Include="Resources\BI_edit_36.png" />
+    <Content Include="Resources\BI_edit_72.png" />
+    <Content Include="Resources\BI_exit_36.png" />
+    <Content Include="Resources\BI_find_72.png" />
+    <Content Include="Resources\BI_find_b2_36.png" />
+    <Content Include="Resources\BI_help_36.png" />
+    <Content Include="Resources\BI_list_48.png" />
+    <Content Include="Resources\BI_print_36.png" />
+    <Content Include="Resources\BI_refresh_48.png" />
+    <Content Include="Resources\BI_save_48.png" />
+    <Content Include="Resources\BI_save_72.png" />
+    <Content Include="Resources\BI_Tools_36.png" />
+    <Content Include="Resources\BI_window_36.png" />
+    <Content Include="Resources\Bl_ABM_36.png" />
+    <None Include="Resources\Bl_seleccionar48.png" />
+    <Content Include="Resources\botellaCoca.jpg" />
+    <Content Include="Resources\Boton2.png" />
+    <None Include="Resources\Boton21.png" />
+    <Content Include="Resources\Boton3.png" />
+    <None Include="Resources\Boton31.png" />
+    <Content Include="Resources\Boton4.png" />
+    <None Include="Resources\Gif Sys About.png" />
+    <None Include="Resources\BtnGifSysAboutM.png" />
+    <None Include="Resources\BtnGifSysAbout.png" />
+    <None Include="Resources\Boton41.png" />
+    <Content Include="Resources\caja.png" />
+    <Content Include="Resources\caja1.jpg" />
+    <Content Include="Resources\calendario_pagos.png" />
+    <None Include="Resources\CargaFactura.png" />
+    <None Include="Resources\CargaCargos.png" />
+    <Content Include="Resources\cart_delete.png" />
+    <Content Include="Resources\cart_put.png" />
+    <Content Include="Resources\cheque_dado.png" />
+    <Content Include="Resources\cheque_recibido.png" />
+    <Content Include="Resources\compra1.png" />
+    <None Include="Resources\data-backupS.png" />
+    <Content Include="Resources\databackupS.png" />
+    <None Include="Resources\escuela.png" />
+    <Content Include="Resources\finazas.png" />
+    <Content Include="Resources\find.png" />
+    <Content Include="Resources\Fondo.png" />
+    <Content Include="Resources\Gif SysLogo.ico" />
+    <Content Include="Resources\lataCoca.jpg" />
+    <Content Include="Resources\listado.png" />
+    <Content Include="Resources\logo_login.png" />
+    <Content Include="Resources\Pancho.jpg" />
+    <None Include="Resources\Proveedor.png" />
+    <Content Include="Resources\refresh.png" />
+    <Content Include="Resources\search_plus.png" />
+    <Content Include="Resources\search_plus2.png" />
+    <Content Include="Resources\toast.gif" />
+    <Content Include="Resources\toast.png" />
+    <Content Include="Resources\venta.jpg" />
+    <Content Include="Resources\venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

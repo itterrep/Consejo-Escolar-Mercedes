@@ -1,0 +1,151 @@
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaPersonas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaCargos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAuxiliar.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmDirector.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmEscuelas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRubro.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmSecretario.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTComedor.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTurno.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaEscuelas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaFacturas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAnulaFactura.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturasDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeEscuelasTipo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.GenerateResource.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.pdb
+e:\data\documentos\visual studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbprojResolveAssemblyReference.cache
+e:\data\documentos\visual studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\RdlCompile.cache
+e:\data\documentos\visual studio 2010\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\RdlCompile.compiled
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe.config
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.pdb
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.xml
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\MySql.Data.dll
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbprojAssemblyReference.cache
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaPersonas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaCargos.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAuxiliar.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmDirector.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmEscuelas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmMisDatos.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmProveedores.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRubro.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmSecretario.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTComedor.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTurno.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAbout.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBackUp.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmHacerBackup.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRestaurarBackUp.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaEscuelas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaFacturas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAnulaFactura.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmLogin.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmUsuarios.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.LoginFormUsuarios.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturasDesdeHasta.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturas.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeEscuelasTipo.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeProveedores.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.MDIMenu.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.Resources.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.GenerateResource.cache
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\RdlCompile.cache
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\RdlCompile.compiled
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.CoreCompileInputs.cache
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.CopyComplete
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.exe
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.xml
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.pdb
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbprojResolveAssemblyReference.cache
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe.manifest
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.application
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmDocProv.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCue.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCueProveedor.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCueRubro.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXfecha.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXProveedor.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXRubro.resources
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.exe.manifest
+D:\Datos\Documentos\Visual Studio 2017\Projects\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.application
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe.config
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe.manifest
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.application
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.exe
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.pdb
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\ConsejoEscolar.xml
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmDocProv.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaPersonas.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturas.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaCargos.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAuxiliar.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmDirector.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmEscuelas.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmMisDatos.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmProveedores.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRubro.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmSecretario.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTComedor.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmTurno.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAbout.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBackUp.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmHacerBackup.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmRestaurarBackUp.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaEscuelas.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmCargaFacturas.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmAnulaFactura.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmBusquedaFacturasDesdeHasta.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCue.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCueProveedor.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXCueRubro.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXfecha.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXProveedor.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeFacturasXRubro.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmLogin.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.frmUsuarios.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.LoginFormUsuarios.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeEscuelasTipo.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.FrmInformeProveedores.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.MDIMenu.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.Resources.resources
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.GenerateResource.cache
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.exe.manifest
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.application
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.vbproj.CopyComplete
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.exe
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.xml
+C:\xampp\htdocs\GitHub\ConsejoEscolar\ConsejoEscolar\obj\x86\Debug\ConsejoEscolar.pdb
