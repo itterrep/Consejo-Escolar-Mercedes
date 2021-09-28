@@ -106,7 +106,7 @@
                 End If
             Next
             miGestionMySQL.Dispose()
-            MsgBox(miProveedor.IdProveedor)
+            'MsgBox(miProveedor.IdProveedor)
         Catch ex As Exception
         End Try
     End Sub
@@ -214,7 +214,7 @@
                     sql2 += " ConstIBB, Form404, HabMuni, ProbEst, Otros, Fecha) "
                     sql2 += " values (" & miProveedor.IdProveedor & ", False, False, False, False, False, "
                     sql2 += " False, False, False, STR_TO_DATE ('" & fecha & "','%d/%m/%Y'))"
-                    MsgBox(sql2)
+                    'MsgBox(sql2)
 
                     miGestionMySQL2.EjecutarSQL(sql2)
                     miGestionMySQL2.Dispose()
